@@ -1,0 +1,18 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: sans-serif;
+}
+.main__header{
+      background-color: white;
+      display: flex;
+      align-items: center;
+      height: 10vh;
+      justify-content: space-around;
+      border: 3px solid rgb(52, 190, 52);
+}
+.wrapper{
+      width: 15rem;
+      display: flex;
+}
